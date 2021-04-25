@@ -279,7 +279,7 @@ body {
 	align-items: center;
 }
 .benefits__list {
-	width: 300px;
+	width: 305px;
 }
 .benefits__list-item {
 	padding-bottom: 27px;
@@ -653,6 +653,9 @@ body {
 	}
 	.rent__item-title {
 		margin-bottom: 20px;
+	}
+	.top__item:hover {
+		transform: scale(1.15);
 	}
 }
 @media (max-width: 550px) {
